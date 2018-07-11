@@ -17,10 +17,10 @@ Using a smaller data set has proven challenging and has shown the limitations of
 <p align="center">
   <div class="row">
   <div class="column">
-    <img src="https://github.com/jgarci135/Practicum-I/blob/master/Figures/train%20class%20distribution.JPG" style="width:100%">
+    <img src="https://github.com/jgarci135/Practicum-I/blob/master/Figures/train%20class%20distribution.JPG" style="width:80%">
   </div>
   <div class="column">
-    <img height="290" src="https://github.com/jgarci135/Practicum-I/blob/master/Figures/validation%20class%20distribution.JPG" style="width:100%">
+    <img height="290" src="https://github.com/jgarci135/Practicum-I/blob/master/Figures/validation%20class%20distribution.JPG" style="width:80%">
   </div>
 </div>
 </p>
