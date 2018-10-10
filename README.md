@@ -1,4 +1,4 @@
-# Practicum-I
+# Deep Learning - Computer Vision
 <p align="center">
   <img width="450" height="250" src="https://gdb.voanews.com/A13A1BE6-4C25-48DF-B44F-253481BD4333_w1023_r1_s.jpg">
 </p>
