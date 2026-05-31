@@ -1,0 +1,34 @@
+{
+  "paths": {
+    "raw_dir": "data/raw",
+    "processed_dir": "data/processed",
+    "splits_file": "splits.json",
+    "models_dir": "models",
+    "figures_dir": "Figures"
+  },
+  "preprocessing": {
+    "img_size": 224,
+    "val_ratio": 0.1,
+    "seed": 42,
+    "clean": true
+  },
+  "training": {
+    "img_size": 224,
+    "batch_size": 16,
+    "epochs": 25,
+    "learning_rate": 0.0001,
+    "dropout": 0.3,
+    "seed": 42,
+    "use_class_weights": true
+  },
+  "evaluation": {
+    "img_size": 224,
+    "batch_size": 16,
+    "model_path": "models/trained_model.h5"
+  },
+  "eda": {
+    "max_images_per_class": 4,
+    "hist_bins": 64,
+    "seed": 42
+  }
+}
